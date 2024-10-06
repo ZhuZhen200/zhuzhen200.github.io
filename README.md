@@ -1,15 +1,10 @@
-# Zhu Zhen
+# Zhu, Zhen
 
 **Master Student**  
 Mechanical Engineering,  
 Tsinghua University  
 [zhuz22@mails.tsinghua.edu.cn](mailto:zhuz22@mails.tsinghua.edu.cn)
 
----
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Google_Scholar_logo.svg" width="40px">](https://scholar.google.com/) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40px">](https://github.com/) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40px">](https://www.linkedin.com/)
 
 ---
 
